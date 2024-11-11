@@ -1,6 +1,16 @@
-## Hi there 👋
+<br clear="both">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leticia-Ajac_icons=true&theme=transparent)
+<div align="center">
+  <img src="https://profile-counter.glitch.me/leticia-ajac/count.svg?"  />
+</div>
+
+###
+
+<h1 align="center">Hi there 👋</h1>
+
+###
+
+
 
 <!--
 **Leticia-Ajac/Leticia-Ajac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
