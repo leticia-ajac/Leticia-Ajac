@@ -10,7 +10,21 @@
 
 ###
 
+🎓 I am a 18 years old high school graduate with a degree in business administration.
+💻 I also started my professional carrer in IT field earlier then usual and now am bringing my portifolio here!
+🚀 Today, I1ve been working as a Product Manager for two years , but I'm still passionate about programming
 
+#PMs can program too rs
+
+In order, my expertises:
+- Data Science Programming
+- Database Management
+- Back-end Development
+- Fron-end Development
+
+Note: Even though the front-end was part of my early career, I'm better at the first three.😅
+
+###
 
 <!--
 **Leticia-Ajac/Leticia-Ajac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
