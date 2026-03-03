@@ -10,7 +10,7 @@
 
 ###
 
-🎓 I am a 19 years old high school graduate with a degree in business administration.<br/>
+🎓 I am a 20 years old high school graduate with a degree in business administration.<br/>
 💻 I also started my professional carrer in IT field earlier then usual and now am bringing my portifolio here!<br/>
 🚀 Today, I1ve been working as a Product Manager for two years , but I'm still passionate about programming<br/>
 
